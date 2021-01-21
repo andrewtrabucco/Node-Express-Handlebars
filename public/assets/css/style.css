@@ -1,0 +1,44 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    /* background: #faebd7; */
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  .container {
+    font-family: 'Baskervville', serif;
+
+  }
+
+  button {
+    font-size: small;
+
+  }
+
+  h2 {
+    font-size: medium;
+  }
+
+  h1 {
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+  }
+
+  body {
+    color: white;
+    background-color: #3475ca;
+  }
