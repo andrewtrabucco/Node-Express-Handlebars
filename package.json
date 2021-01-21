@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
     "handlebars": "^4.7.6",
     "jquery": "^3.5.1",
-    "mysql": "^2.16.0",
+    "mysql": "^2.18.1",
     "node": "^15.0.1"
   },
   "devDependencies": {
@@ -22,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewtrabucco/Burger-Logger.git"
+    "url": "git+https://github.com/andrewtrabucco/Node-Express-Handlebars.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/andrewtrabucco/Burger-Logger/issues"
+    "url": "https://github.com/andrewtrabucco/Node-Express-Handlebars/issues"
   },
-  "homepage": "https://github.com/andrewtrabucco/Burger-Logger#readme"
+  "homepage": "https://github.com/andrewtrabucco/Node-Express-Handlebars#readme"
 }
